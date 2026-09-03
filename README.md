@@ -56,29 +56,6 @@ A 23-object model of an automotive rework paint shop — topcoat line, quality s
 
 ---
 
-### 🎓 [HSRW UniCard](https://github.com/tarekhasan9828/HSRW-UniCard) — one credential for four campus services
-
-<p>
-<img alt="Module" src="https://img.shields.io/badge/Project%20Management%20%26%20Intercultural%20Competence-1B4F9C?style=flat-square">
-<img alt="Semester" src="https://img.shields.io/badge/SS%202026-Group%206-005CA9?style=flat-square">
-<img alt="Prototype" src="https://img.shields.io/badge/prototype-live-2E7D46?style=flat-square">
-</p>
-
-Student ID, Mensa payment, library access and VRR/NIAG transit are four separate credentials at HSRW today. This study unified them into one — an NFC card plus a digital wallet pass — designed, prototyped and evaluated end to end across a semester under a single constraint: **a phone with a dead battery must never lock a student out of their own campus.**
-
-| | |
-|---|---|
-| **4 → 1** | services per credential |
-| **27** | time-units on the critical path (σ 1.56) |
-| **474 h** | logged against 440 planned (+7.7 %) |
-| **20 / 25** | usability tasks completed unaided, rated 4.6 / 5 |
-
-The concept, the architecture and the prototype all landed. What stopped live integration was not technical: the risk scored highest at kick-off — bureaucratic inertia, 16/25 — is exactly the one that materialised. It is written up as a failure rather than buried, because a risk register you never check against the outcome is decoration.
-
-➡️ **[Live prototype](https://unicard-hsrw-main-1.vercel.app/portal)** · 20-page report · three presentations · Gantt workbook · full PERT calculation · five external usability-test records
-
----
-
 ## Certification
 
 ### SAP S/4HANA Exercise — SAP University Alliances / SAP UCC
