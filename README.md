@@ -56,7 +56,7 @@ A 23-object model of an automotive rework paint shop — topcoat line, quality s
 
 ---
 
-### 🎓 [HSRW UniCard](https://github.com/MuntasirFahim/HSRW_UniCard) — one credential for four campus services
+### 🎓 [HSRW UniCard](https://github.com/tarekhasan9828/HSRW-UniCard) — one credential for four campus services
 
 <p>
 <img alt="Module" src="https://img.shields.io/badge/Project%20Management%20%26%20Intercultural%20Competence-1B4F9C?style=flat-square">
