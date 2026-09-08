@@ -28,7 +28,7 @@ Two rules run through every repository below.
 
 ## Featured projects
 
-### 🏭 [Rework Paint Shop Simulation](https://github.com/tarekhasan9828/rework-paint-shop-simulation) — discrete-event study of an automotive line
+###  [Rework Paint Shop Simulation](https://github.com/tarekhasan9828/rework-paint-shop-simulation) — discrete-event study of an automotive line
 
 <p>
 <img alt="Tool" src="https://img.shields.io/badge/Siemens%20Tecnomatix-Plant%20Simulation%202404-0098A1?style=flat-square">
@@ -56,7 +56,7 @@ A 23-object model of an automotive rework paint shop — topcoat line, quality s
 
 ---
 
-### 🎫 [HSRW UniCard](https://github.com/tarekhasan9828/HSRW-UniCard) — one credential for four campus services
+###  [HSRW UniCard](https://github.com/tarekhasan9828/HSRW-UniCard) — one credential for four campus services
 
 <p>
 <img alt="Discipline" src="https://img.shields.io/badge/Project%20Management-Intercultural%20Competence-1B4F9C?style=flat-square">
