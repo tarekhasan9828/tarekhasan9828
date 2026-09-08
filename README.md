@@ -56,6 +56,36 @@ A 23-object model of an automotive rework paint shop — topcoat line, quality s
 
 ---
 
+### 🎫 [HSRW UniCard](https://github.com/tarekhasan9828/HSRW-UniCard) — one credential for four campus services
+
+<p>
+<img alt="Discipline" src="https://img.shields.io/badge/Project%20Management-Intercultural%20Competence-1B4F9C?style=flat-square">
+<img alt="Methods" src="https://img.shields.io/badge/SWOT%20IFAS%2FEFAS%20%C2%B7%20Ishikawa%20%C2%B7%20PERT-2E7D46?style=flat-square">
+<img alt="Prototype" src="https://img.shields.io/badge/Prototype-live%20demo-0098A1?style=flat-square">
+<img alt="Semester" src="https://img.shields.io/badge/SS%202026-Group%206-005CA9?style=flat-square">
+</p>
+
+A hybrid student credential that merges **student identification, Mensa payment, library access and VRR/NIAG transit** into one card — issued both as a physical NFC smart card and as a digital wallet pass, behind a decoupled API gateway so that no partner has to rebuild a back end to join.
+
+| Goal | Result | Assessment |
+|---|---|---|
+| Integrate four services in one credential | All four designed and demonstrated | **Achieved at design level** |
+| Replace three or more cards with one | One credential demonstrated, no campus deployment | Partially achieved |
+| Integrate with existing live systems | Endpoints specified against simulated data | Not achieved |
+| Effort against plan | 440 h planned · **474 h actual** (+7.7 %) | On schedule internally |
+
+**The finding.** The highest-scored entry in the risk register — bureaucratic inertia and approval cycles, probability 4 × impact 4 = **16** — is the one that materialised. Weighted SWOT scoring said the same thing from the other side: IFAS **2.60** against a 2.50 midpoint, EFAS **2.40**. Internally solid, externally exposed. What stands between this concept and a campus rollout is institutional approval, not interface design.
+
+**What I contributed.** Market, stakeholder, persona, risk and GDPR research; the Business Model Canvas; the visual Gantt chart over the six-phase, 474-hour schedule; the external usability-test protocol and observation sheet; and report-wide quality assurance and cross-review. The usability run put **20 of 25 task attempts through unaided**, with the failures clustering on labelling — Transport, Wallet and service navigation — rather than on architecture, and the README says plainly that five participants and one questionnaire do not validate acceptance.
+
+**What the numbers hid.** Planned against actual, the interesting figure is not the 34-hour overrun but its distribution: prototyping underran by 127 hours because live integration never happened, while documentation overran by 112 hours. Two large estimation errors in opposite directions that almost cancel.
+
+➡️ Live prototype · integration architecture · SWOT/IFAS-EFAS · stakeholder map · Ishikawa 6M · risk register · Gantt and PERT critical path (27 units, σ = 1.56) · usability results
+
+<sub>Coursework with Group 6 (Project Management and Intercultural Competence, SS 2026). Report, presentations and analysis workbooks stay unpublished — they carry the group's personal university details — but their tables and reasoning are reproduced in the repository README.</sub>
+
+---
+
 ## Certification
 
 ### SAP S/4HANA Exercise — SAP University Alliances / SAP UCC
@@ -87,9 +117,9 @@ A minimum of 16 school hours of hands-on exercises on the SAP S/4HANA system, wo
 
 **Enterprise systems** · SAP S/4HANA (MM · SD · FI · PP) · SAP GUI · SAP Fiori
 
-**Project management** · SMART objectives · work-package breakdown · Gantt baselining and planned-vs-actual control · PERT three-point estimation, forward and backward passes, slack and variance
+**Project management** · SMART objectives · work-package breakdown · Gantt baselining and planned-vs-actual control · PERT three-point estimation, forward and backward passes, slack and variance · probability × impact risk registers
 
-**Analysis** · SWOT with weighted IFAS/EFAS scoring · Ishikawa 6M root-cause decomposition · stakeholder mapping · probability × impact risk registers
+**Analysis** · SWOT with weighted IFAS/EFAS scoring · Ishikawa 6M root-cause decomposition · stakeholder mapping · persona-driven requirements · usability test protocols
 
 ---
 
